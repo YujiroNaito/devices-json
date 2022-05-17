@@ -4,7 +4,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0001",
       "location": "A工場",
-      "serialNumber": "S/N0001",
+      "serial_number": "S/N0001",
       "device_name": "丸刃スライサーA",
       "category": "スライサ",
       "created_at": 1530000410000
@@ -13,7 +13,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0002",
       "location": "A工場",
-      "serialNumber": "S/N0002",
+      "serial_number": "S/N0002",
       "device_name": "丸刃スライサーB",
       "category": "スライサ",
       "created_at": 1530000410000
@@ -22,7 +22,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0003",
       "location": "A工場",
-      "serialNumber": "S/N0003",
+      "serial_number": "S/N0003",
       "device_name": "ハーフカット機A",
       "category": "カッター",
       "created_at": 1530000410000
@@ -31,7 +31,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0004",
       "location": "B工場",
-      "serialNumber": "S/N0004",
+      "serial_number": "S/N0004",
       "device_name": "丸刃スライサーA",
       "category": "スライサ",
       "created_at": 1530000410000
@@ -40,7 +40,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0005",
       "location": "B工場",
-      "serialNumber": "S/N0005",
+      "serial_number": "S/N0005",
       "device_name": "丸刃スライサーB",
       "category": "スライサ",
       "created_at": 1530000410000
@@ -49,7 +49,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0006",
       "location": "B工場",
-      "serialNumber": "S/N0006",
+      "serial_number": "S/N0006",
       "device_name": "ハーフカット機A",
       "category": "カッター",
       "created_at": 1530000410000
@@ -58,7 +58,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0007",
       "location": "C工場",
-      "serialNumber": "S/N0007",
+      "serial_number": "S/N0007",
       "device_name": "丸刃スライサーA",
       "category": "スライサ",
       "created_at": 1530000410000
@@ -67,7 +67,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0008",
       "location": "C工場",
-      "serialNumber": "S/N0008",
+      "serial_number": "S/N0008",
       "device_name": "丸刃スライサーB",
       "category": "スライサ",
       "created_at": 1530000410000
@@ -76,7 +76,7 @@
       "company_id": "co0001",
       "contract_detail_id": "cd0009",
       "location": "C工場",
-      "serialNumber": "S/N0009",
+      "serial_number": "S/N0009",
       "device_name": "ハーフカット機A",
       "category": "カッター",
       "created_at": 1530000410000
