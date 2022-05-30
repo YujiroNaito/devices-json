@@ -3,7 +3,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0001",
-      "location": "オイシイフーズ株式会社",
+      "location": "幸手工場",
       "serial_number": "S/N0001",
       "device_name": "丸刃スライサーA",
       "category": "スライサ",
@@ -12,7 +12,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0002",
-      "location": "オイシイフーズ株式会社",
+      "location": "幸手工場",
       "serial_number": "S/N0002",
       "device_name": "丸刃スライサーB",
       "category": "スライサ",
@@ -21,7 +21,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0003",
-      "location": "オイシイフーズ株式会社",
+      "location": "幸手工場",
       "serial_number": "S/N0003",
       "device_name": "ハーフカット機A",
       "category": "カッター",
@@ -30,7 +30,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0004",
-      "location": "一本工業株式会社",
+      "location": "久喜工場",
       "serial_number": "S/N0004",
       "device_name": "丸刃スライサーA",
       "category": "スライサ",
@@ -39,7 +39,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0005",
-      "location": "一本工業株式会社",
+      "location": "久喜工場",
       "serial_number": "S/N0005",
       "device_name": "丸刃スライサーB",
       "category": "スライサ",
@@ -48,7 +48,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0006",
-      "location": "一本工業株式会社",
+      "location": "久喜工場",
       "serial_number": "S/N0006",
       "device_name": "ハーフカット機A",
       "category": "カッター",
@@ -57,7 +57,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0007",
-      "location": "有限会社日の丸製作所",
+      "location": "熊谷工場",
       "serial_number": "S/N0007",
       "device_name": "丸刃スライサーA",
       "category": "スライサ",
@@ -66,7 +66,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0008",
-      "location": "有限会社日の丸製作所",
+      "location": "熊谷工場",
       "serial_number": "S/N0008",
       "device_name": "丸刃スライサーB",
       "category": "スライサ",
@@ -75,7 +75,7 @@
     {
       "company_id": "co0001",
       "contract_detail_id": "cd0009",
-      "location": "有限会社日の丸製作所",
+      "location": "熊谷工場",
       "serial_number": "S/N0009",
       "device_name": "ハーフカット機A",
       "category": "カッター",
